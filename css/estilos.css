@@ -104,9 +104,9 @@ main{
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 10%;
+    line-height: 150%;
     opacity: 0.8;
-    color: none;
+    color: var(--Medium-Gray);
 }
 
 .encriptador-contenedor{
