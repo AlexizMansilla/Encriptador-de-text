@@ -128,7 +128,7 @@ main{
     line-height: 19px;
     text-align: center;
     color: var(--Dark-Blue);
-    background: var(:--White-Blue;);
+    background: var(--White-Blue);
     border: 1px solid var(--Dark-Blue);
     border-radius: 24px;
     cursor: pointer;
